@@ -1,2 +1,2 @@
 # pta
-pta programming code
+This project is to make me quickly review c code from pta. Come on!
